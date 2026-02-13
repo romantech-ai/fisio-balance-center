@@ -164,7 +164,7 @@ export function Hero() {
               {/* Image */}
               <div className="relative aspect-[4/5] rounded-[1.5rem] overflow-hidden shadow-2xl shadow-primary/20">
                 <Image
-                  src="/images/hero.jpg"
+                  src="/images/hero.webp"
                   alt={`${clinic.name} - ${clinic.tagline}`}
                   fill
                   className="object-cover"
